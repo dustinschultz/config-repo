@@ -1,6 +1,6 @@
 server:
  web:
   application: 0xDEADBAE
-io
- schultz
+io:
+ schultz:
   name: dustin
