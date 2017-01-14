@@ -3,4 +3,4 @@ server:
   application: 0xDEADBAE
 io:
  schultz:
-  name: sally
+  name: '{cipher}588c0db1235dde5cdd5cf63a1f98ecfc3f21b611a1e252d1c6ea994c456a27c1'
